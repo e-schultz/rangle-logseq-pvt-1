@@ -1,0 +1,22 @@
+- The Team:
+	- The Account Team:
+		- Evan Schultz
+		- Naim Yagoub
+		- Steven Chabot
+	- The Delivery Team:
+		- Abi Aderju
+		- Angel Mathew
+		- Bohdan Anderson
+		- Ricardo Silva
+	- Molex - DOM
+		- Molex Threads
+			- We built a form rendering component based on JSON schema with branching capabilities (conditions to show a filed based on previous field value)
+			- AJV for form validation introduced a performance issue, leading to 30ms per field response time
+- [[Molex - Tech Stach]]
+	- {{embed [[Molex - Tech Stach]]}}
+	-
+	-
+- [[Molex Lessons Learned]]
+- [[molex-challenge]]
+  collapsed:: true
+	- {{embed ((628ec383-129d-4dfe-bfa3-132015fe2ae7))}}
