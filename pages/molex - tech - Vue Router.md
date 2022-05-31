@@ -1,0 +1,19 @@
+- Use of Vue router was iffy - when the application is actually in use, it's run as an embeded web view in a desktop application and has no "browser controls", so the PO had not thought about forward / back / reload / etc type of navigation.
+- ## Molex Considering Moving away from router
+	- at one point they had mentioned possibly wanting to remove the router since they "don't need it"
+	- technical-risk:: Removing the router is a a bad idea
+	  Effective use of the router can greatly simplify the application, data loading, managing the "where am I in the application state", even if the end-user does not see the URL
+		- impact:: Developer Productivity - Dev Experience
+			- Developers would mention that when working on the application, if they had to reload the page they had to
+				- to navigate back to the first screen of the application
+				- select the module
+				- select the sub module
+				- a few more steps
+				- and back at their previous screen
+			- this was a point of frustration, lead to needing to repeat a lot of steps.
+				- the core issue was how the router was being used, and replicating some of what could have been kept track of through the URL, via updating the vuex state instead.
+				- other considerations: storybook for an isolated development enviornment
+				-
+			-
+		-
+	-

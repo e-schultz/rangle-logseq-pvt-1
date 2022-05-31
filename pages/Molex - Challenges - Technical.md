@@ -1,3 +1,3 @@
-parent:: [[molex-challenge]]
+parent:: [[molex challenges]]
 
 -

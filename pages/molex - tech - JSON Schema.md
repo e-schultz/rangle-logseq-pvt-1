@@ -1,0 +1,1 @@
+- [[molex-challenge - The role of JSON Schema was not apparent, nore made clear early on]]

@@ -1,26 +1,19 @@
 parent:: [[Molex Overview]] 
 slack:: [[Willian and Evan Sync last week as rolling off of Molex]]
 
-- wtf
 	- some possible ideas - technical & non technical
 		- TODO clean up Molex notion page
-			-
 		- TODO Lessons Learned
 		- TODO Challenges
 		- TODO Wins
-	- The Team:
-	  id:: 628eba10-fc94-435d-a145-4de284e7c799
 - [[Molex Overview]]
-	- embed start
-	  collapsed:: true
-		- {{embed ((628eba10-fc94-435d-a145-4de284e7c799))}}
 	- Goals
-	  collapsed:: true
-		- Both Ours, Theirs, Mine
-			- [[Molex - Supporting Learning while Working]]
-			  collapsed:: true
-				- not everyone knew Vue starting the project, how we well can we support them in learning it while being able to deliver.
-	- [[molex-challenge]]
+		- [[Molex - Supporting Learning while Working]]
+		  collapsed:: true
+			- not everyone knew Vue starting the project, how we well can we support them in learning it while being able to deliver.
+		- Supporting Delivery of Components
+		- Knowledge Transfer
+	- [[molex challenges]]
 		- [[molex-challenge - Expectation Change Early On]]
 		- [[Molex - Challenges - Communication Patterns]]
 		  collapsed:: true

@@ -1,4 +1,4 @@
-parent:: [[molex-challenge]]
+parent:: [[molex challenges]]
 
 - **initial expectation:**
   id:: 628eb4bb-91c7-4b7d-bbfa-f4acb85c6c55

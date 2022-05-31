@@ -1,11 +1,11 @@
 [{:block/name
   "\"molex pattern - \"it's obvious to me, why isn't it obvious to you?\"\"",
   :block/created-at 1653520423946,
-  :block/updated-at 1653523543815}
+  :block/updated-at 1653598446938}
  {:block/name
   "\"molex pattern - \"you have a good idea, they are now in scope\"",
   :block/created-at 1653520432577,
-  :block/updated-at 1653523559470}
+  :block/updated-at 1653598470242}
  {:block/name "2021-06-01",
   :block/created-at 1653582297021,
   :block/updated-at 1653582297021}
@@ -23,13 +23,16 @@
   :block/updated-at 1653494929748}
  {:block/name "2022-05-26",
   :block/created-at 1653537638256,
-  :block/updated-at 1653584257793}
+  :block/updated-at 1653598609823}
  {:block/name "2022-05-26 - follow up with john about free agents",
   :block/created-at 1653578951601,
   :block/updated-at 1653579141402}
  {:block/name "2022-05-27",
   :block/created-at 1653420947107,
   :block/updated-at 1653420947107}
+ {:block/name "21110144-f2b1-4a43-b2c5-a4fe179f8b75",
+  :block/created-at 1653599081087,
+  :block/updated-at 1653599081087}
  {:block/name "3d27730b-317b-4ffb-9841-ce9104fe4ce4",
   :block/created-at 1653581854906,
   :block/updated-at 1653581854906}
@@ -54,9 +57,15 @@
  {:block/name "628eba10-fc94-435d-a145-4de284e7c799",
   :block/created-at 1653581854906,
   :block/updated-at 1653581854906}
+ {:block/name "628ec195-60dc-48a9-bed8-659f33ad4662",
+  :block/created-at 1653598154643,
+  :block/updated-at 1653598154643}
  {:block/name "628ec383-129d-4dfe-bfa3-132015fe2ae7",
   :block/created-at 1653523350228,
   :block/updated-at 1653523350228}
+ {:block/name "782bd219-db7f-4bd8-a714-507229969636",
+  :block/created-at 1653599050536,
+  :block/updated-at 1653599050536}
  {:block/name "a",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
@@ -110,37 +119,67 @@
  {:block/name "later",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "molex",
+  :block/created-at 1653596351539,
+  :block/updated-at 1653597562195}
  {:block/name "molex - challenges - communication patterns",
   :block/created-at 1653517148038,
-  :block/updated-at 1653520707772}
+  :block/updated-at 1653598019982}
  {:block/name "molex - challenges - technical",
   :block/created-at 1653521899897,
-  :block/updated-at 1653521915284}
+  :block/updated-at 1653598400852}
+ {:block/name "molex - end of engagement workshop",
+  :block/created-at 1653597364608,
+  :block/updated-at 1653597449023}
  {:block/name
   "molex - pattern - thinking out loud, unclear if what they are saying is for now or later",
   :block/created-at 1653519158754,
-  :block/updated-at 1653523530378}
+  :block/updated-at 1653598420039}
  {:block/name "molex - pattern - why didn't you already know this",
   :block/created-at 1653519002284,
-  :block/updated-at 1653523505750}
+  :block/updated-at 1653598326882}
  {:block/name "molex - supporting learning while working",
   :block/created-at 1653516748082,
   :block/updated-at 1653516748082}
+ {:block/name "molex - tech - json schema",
+  :block/created-at 1653596847627,
+  :block/updated-at 1653596884946}
+ {:block/name "molex - tech - stackblitz and codesandbox",
+  :block/created-at 1653596931758,
+  :block/updated-at 1653597381043}
+ {:block/name "molex - tech - vue 2",
+  :block/created-at 1653596668332,
+  :block/updated-at 1653599491888}
+ {:block/name "molex - tech - vue router",
+  :block/created-at 1653596486712,
+  :block/updated-at 1653596568667}
+ {:block/name "molex - tech - vuetify",
+  :block/created-at 1653596639885,
+  :block/updated-at 1653596639885}
+ {:block/name "molex - tech - vuex",
+  :block/created-at 1653596683830,
+  :block/updated-at 1653596699837}
  {:block/name "molex - tech stach",
   :block/created-at 1653522783400,
-  :block/updated-at 1653522872065}
+  :block/updated-at 1653596931759}
+ {:block/name "molex - the team",
+  :block/created-at 1653598937588,
+  :block/updated-at 1653599088907}
+ {:block/name "molex challenges",
+  :block/created-at 1653597516345,
+  :block/updated-at 1653598785880}
  {:block/name "molex lessons learned",
   :block/created-at 1653515625761,
-  :block/updated-at 1653523255382}
+  :block/updated-at 1653598858148}
  {:block/name "molex overview",
   :block/created-at 1653520911090,
-  :block/updated-at 1653523350231}
+  :block/updated-at 1653599128152}
  {:block/name "molex-challenge",
-  :block/created-at 1653516624018,
-  :block/updated-at 1653523335419}
+  :block/created-at 1653599512626,
+  :block/updated-at 1653599512626}
  {:block/name "molex-challenge - expectation change early on",
   :block/created-at 1653519536287,
-  :block/updated-at 1653520476324}
+  :block/updated-at 1653598377470}
  {:block/name
   "molex-challenge - the role of json schema was not apparent, nore made clear early on",
   :block/created-at 1653521884624,

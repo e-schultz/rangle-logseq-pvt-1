@@ -1,4 +1,4 @@
-parent:: [[molex-challenge]], [[Molex - Challenges - Communication Patterns]]
+parent:: [[molex challenges]] , [[Molex - Challenges - Communication Patterns]]
 
 - **pattern** - When doing a code review, or walking through a user story / figma, etc and talking about the work that needs to be done.
   id:: 628eb7bc-d31b-494b-bbdf-d35079584f0a

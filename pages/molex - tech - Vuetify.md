@@ -1,0 +1,3 @@
+- Doesn't support Vue 3 yet
+- was ok to work with
+- main pattern in the application - "creating wrappers around veutify to work with our dynamic components"

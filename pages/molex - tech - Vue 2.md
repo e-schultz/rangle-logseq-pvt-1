@@ -1,0 +1,6 @@
+- Project had already been started using Vue 2, and was using Vuetify for the component library, which does not support Vue 3 yet.
+	- x
+	- y
+	- z
+		- ab
+	- c

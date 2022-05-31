@@ -1,6 +1,7 @@
+client:: [[Molex]] 
 parent:: [[Molex Lessons Learned]]
 
-- challenges -
+- challenges - [[Molex Challenges]]
   id:: 628ec383-129d-4dfe-bfa3-132015fe2ae7
 	- [[molex-challenge - Expectation Change Early On]]
 	- [[Molex - Challenges - Communication Patterns]]
