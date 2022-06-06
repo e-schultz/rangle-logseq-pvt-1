@@ -9,9 +9,9 @@
  {:block/name "2021-06-01",
   :block/created-at 1653582297021,
   :block/updated-at 1653582297021}
- {:block/name "2021-06-04",
-  :block/created-at 1653582240169,
-  :block/updated-at 1653582240169}
+ {:block/name "2022-05-12",
+  :block/created-at 1654001093708,
+  :block/updated-at 1654001093708}
  {:block/name "2022-05-24",
   :block/created-at 1653417497168,
   :block/updated-at 1653420947108}
@@ -32,34 +32,19 @@
   :block/updated-at 1653420947107}
  {:block/name "2022-05-31",
   :block/created-at 1654001076379,
-  :block/updated-at 1654001076379}
+  :block/updated-at 1654002354882}
  {:block/name "21110144-f2b1-4a43-b2c5-a4fe179f8b75",
   :block/created-at 1653599081087,
   :block/updated-at 1653599081087}
- {:block/name "3d27730b-317b-4ffb-9841-ce9104fe4ce4",
-  :block/created-at 1653581854906,
-  :block/updated-at 1653581854906}
  {:block/name "628d32fd-3ed3-4035-adb7-bcdac6da9df3",
   :block/created-at 1653581854906,
   :block/updated-at 1653581854906}
- {:block/name "628eada4-dc80-4eea-ad34-1b0b4854d21a",
-  :block/created-at 1653517915717,
-  :block/updated-at 1653517915717}
- {:block/name "628eaee2-850a-4438-a1f6-8f95dadd9357",
-  :block/created-at 1653518078151,
-  :block/updated-at 1653518078151}
  {:block/name "628eb6a6-de67-4d0c-ade1-a7caf61d0276",
   :block/created-at 1653520174417,
   :block/updated-at 1653520174417}
- {:block/name "628eb6a9-9be3-41df-8f0e-426c69ab26a5",
-  :block/created-at 1653520097824,
-  :block/updated-at 1653520097824}
  {:block/name "628eb7bc-d31b-494b-bbdf-d35079584f0a",
   :block/created-at 1653520381747,
   :block/updated-at 1653520381747}
- {:block/name "628eba10-fc94-435d-a145-4de284e7c799",
-  :block/created-at 1653581854906,
-  :block/updated-at 1653581854906}
  {:block/name "628ec195-60dc-48a9-bed8-659f33ad4662",
   :block/created-at 1653598154643,
   :block/updated-at 1653598154643}
@@ -177,9 +162,6 @@
  {:block/name "molex overview",
   :block/created-at 1653520911090,
   :block/updated-at 1653599128152}
- {:block/name "molex-challenge",
-  :block/created-at 1653599512626,
-  :block/updated-at 1653599512626}
  {:block/name "molex-challenge - expectation change early on",
   :block/created-at 1653519536287,
   :block/updated-at 1653598377470}
@@ -202,6 +184,9 @@
  {:block/name "tech regroup",
   :block/created-at 1653420797296,
   :block/updated-at 1653490584376}
+ {:block/name "tech regroup - 4th wednesday",
+  :block/created-at 1654001093331,
+  :block/updated-at 1654001093331}
  {:block/name
   "thread of threads  to collect threads of queer stuff,  as i am one who likes to collect things",
   :block/created-at 1653582207379,
@@ -209,9 +194,6 @@
  {:block/name "todo",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
- {:block/name "tweeted",
-  :block/created-at 1653584257792,
-  :block/updated-at 1653584257792}
  {:block/name "twitter as zettelkasten",
   :block/created-at 1653582102567,
   :block/updated-at 1653582102567}
