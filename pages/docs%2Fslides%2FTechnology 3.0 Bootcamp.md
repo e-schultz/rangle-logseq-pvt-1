@@ -3,3 +3,4 @@ url:: [Technology 3.0 Bootcamp](https://docs.google.com/presentation/d/1E3M9Jooh
 shared-on:: 2022-08-10
 shared-by:: Willian
 shared-via:: [slack/technlogy-architecture](technology-architecture)
+shared-url:: https://rangle.slack.com/archives/C03PJL4QZT2/p1660147704133679
