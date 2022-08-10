@@ -120,7 +120,13 @@
   :block/updated-at 1656734989523}
  {:block/name "2022-08-09",
   :block/created-at 1660065994121,
-  :block/updated-at 1660065994121}
+  :block/updated-at 1660147549837}
+ {:block/name "2022-08-10",
+  :block/created-at 1660067178603,
+  :block/updated-at 1660147670558}
+ {:block/name "2022-08-31",
+  :block/created-at 1660145506057,
+  :block/updated-at 1660145506057}
  {:block/name "21110144-f2b1-4a43-b2c5-a4fe179f8b75",
   :block/created-at 1653599081087,
   :block/updated-at 1653599081087}
@@ -148,36 +154,90 @@
  {:block/name "abdelrhman's contentful and react workshop",
   :block/created-at 1654693199168,
   :block/updated-at 1654697738965}
+ {:block/name "adam s",
+  :block/created-at 1660146862245,
+  :block/updated-at 1660146862245}
  {:block/name "anderson digital experience",
   :block/created-at 1653515870995,
   :block/updated-at 1653515973741}
+ {:block/name "andrew matte",
+  :block/created-at 1660146862245,
+  :block/updated-at 1660146862245}
+ {:block/name "angular",
+  :block/created-at 1660066876917,
+  :block/updated-at 1660066876917}
  {:block/name "angular io learning journey",
   :block/created-at 1654693454167,
   :block/updated-at 1654697633862}
+ {:block/name "attendees",
+  :block/created-at 1660146862248,
+  :block/updated-at 1660146862248}
  {:block/name "b",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "brenda",
+  :block/created-at 1660146862246,
+  :block/updated-at 1660146862246}
  {:block/name "c",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "canceled",
+  :block/created-at 1660148129645,
+  :block/updated-at 1660148129645}
+ {:block/name "cancelled",
+  :block/created-at 1660148129645,
+  :block/updated-at 1660148129645}
  {:block/name "card",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
  {:block/name "ceridian",
   :block/created-at 1653491916564,
   :block/updated-at 1653491925923}
+ {:block/name "client",
+  :block/created-at 1660066855956,
+  :block/updated-at 1660066855956}
  {:block/name "contents",
   :block/created-at 1653417506476,
   :block/updated-at 1653417506476}
  {:block/name "copy a page just because",
   :block/created-at 1653520161111,
   :block/updated-at 1653520174418}
+ {:block/name "dawn",
+  :block/created-at 1660146862242,
+  :block/updated-at 1660146862242}
+ {:block/name "digital operating model",
+  :block/created-at 1660146980810,
+  :block/updated-at 1660146980810}
+ {:block/name "digital operating model/digital canvas",
+  :block/created-at 1660146980817,
+  :block/updated-at 1660146980817}
+ {:block/name "digital operating model/free agents",
+  :block/created-at 1660147019003,
+  :block/updated-at 1660147234250}
+ {:block/name "digital operating model/free agents/fa - show and tell",
+  :block/created-at 1660147526541,
+  :block/updated-at 1660147540655}
+ {:block/name "digital operating model/radar",
+  :block/created-at 1660147011899,
+  :block/updated-at 1660147011899}
  {:block/name "doing",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
  {:block/name "done",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "end-date",
+  :block/created-at 1660066834290,
+  :block/updated-at 1660066834290}
+ {:block/name "end-time",
+  :block/created-at 1660146811938,
+  :block/updated-at 1660146811938}
+ {:block/name "evan",
+  :block/created-at 1660146862241,
+  :block/updated-at 1660146862241}
+ {:block/name "fa - show and tell",
+  :block/created-at 1660147344512,
+  :block/updated-at 1660147344512}
  {:block/name "favorites",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
@@ -198,12 +258,18 @@
  {:block/name "in-progress",
   :block/created-at 1653417506476,
   :block/updated-at 1653417506476}
+ {:block/name "john m",
+  :block/created-at 1660146862244,
+  :block/updated-at 1660146862244}
  {:block/name "kink",
   :block/created-at 1653582297017,
   :block/updated-at 1653582297017}
  {:block/name "later",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "michael m",
+  :block/created-at 1660146862244,
+  :block/updated-at 1660146862244}
  {:block/name "molex",
   :block/created-at 1653596351539,
   :block/updated-at 1653597562195}
@@ -269,9 +335,18 @@
  {:block/name "morning bootup",
   :block/created-at 1654693109856,
   :block/updated-at 1654693109856}
+ {:block/name "next vs nest vs remix",
+  :block/created-at 1660145216045,
+  :block/updated-at 1660145216045}
+ {:block/name "next vs remix vs gatsby",
+  :block/created-at 1660145241324,
+  :block/updated-at 1660145241324}
  {:block/name "now",
   :block/created-at 1653417506476,
   :block/updated-at 1653417506476}
+ {:block/name "parent",
+  :block/created-at 1660147403052,
+  :block/updated-at 1660147403052}
  {:block/name "pride",
   :block/created-at 1653582297019,
   :block/updated-at 1653582297019}
@@ -287,16 +362,34 @@
  {:block/name "rangle partnership model",
   :block/created-at 1655212195708,
   :block/updated-at 1655212195708}
+ {:block/name "start-date",
+  :block/created-at 1660066828671,
+  :block/updated-at 1660066828671}
+ {:block/name "start-time",
+  :block/created-at 1660146811937,
+  :block/updated-at 1660146811937}
  {:block/name "tech regroup",
   :block/created-at 1653420797296,
-  :block/updated-at 1653490584376}
+  :block/updated-at 1660143972630}
  {:block/name "tech regroup - 4th wednesday",
   :block/created-at 1654001093331,
   :block/updated-at 1654001093331}
+ {:block/name "tech-stack",
+  :block/created-at 1660066876920,
+  :block/updated-at 1660066876920}
+ {:block/name "test page",
+  :block/created-at 1660147786966,
+  :block/updated-at 1660147887880}
  {:block/name
   "thread of threads  to collect threads of queer stuff,  as i am one who likes to collect things",
   :block/created-at 1653582207379,
   :block/updated-at 1653582348840}
+ {:block/name "tiaa",
+  :block/created-at 1660066855955,
+  :block/updated-at 1660066855955}
+ {:block/name "tiaa - cicero backfill",
+  :block/created-at 1660066798876,
+  :block/updated-at 1660066876924}
  {:block/name "todo",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
@@ -309,6 +402,9 @@
  {:block/name "waiting",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "willian",
+  :block/created-at 1660146862243,
+  :block/updated-at 1660146862243}
  {:block/name
   "willian and evan sync last week as rolling off of molex",
   :block/created-at 1653520792175,
