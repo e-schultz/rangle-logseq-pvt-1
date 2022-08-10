@@ -24,8 +24,7 @@ tech-stack:: [[Angular]]
 		- DONE Send Forms to Naim
 			- done - shared via [slack](https://rangle.slack.com/archives/D0388E20T6Y/p1660167659095939)
 	- TODO Review Onboarding Docs in BOX
-		- TODO Read TIAA Design System Proposal powerpoint [slides](https://tiaa-cref.box.com/s/ntcx3a2l724sf6jwl2cno4ot8o0z0an2)
-		  SCHEDULED: <2022-08-11 Thu>
+		- TODO Read TIAA Design System Proposal powerpoint [slides](https://tiaa-cref.box.com/s/ntcx3a2l724sf6jwl2cno4ot8o0z0an2) >[2022-08-11](#agenda://?start=1660190400000&end=1660276799000)
 		-
 	-
 -
