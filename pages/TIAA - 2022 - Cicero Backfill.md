@@ -1,5 +1,5 @@
 client:: [[TIAA]]
-client-project:: [[TIAA/2022]] 
+client-project:: [[TIAA - 2022]] 
 start-date:: 2022-08-15
 end-date:: 2022-09-20
 tech-stack:: [[Angular]]
