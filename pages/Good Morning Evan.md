@@ -1,5 +1,12 @@
-- generate outline for blog post comparing the javascript frameworks Next and Remix
-	- Next is a javascript framework created by the team at ZEIT. It's designed to make it simple and easy to build server-rendered React applications.
-	  
-	  Remix is a javascript framework created by the team at Facebook. It's designed to make it easy to build large-scale web applications.
+- generate bullet-point outline for blog post comparing the javascript frameworks Next and Remix
+	- -both Next and Remix are front-end Javascript frameworks 
+	  -both help developers create user interfaces and websites 
+	  - differ in how they approach stylesheets 
+	  -Next uses JavaScript and JSX to generate CSS stylesheets while Remix generates CSS stylesheets from pre-processor files 
+	  - Next is opinionated about how stylesheets should be organized and offers a limited number of ways to style elements 
+	  - Remix is more flexible and offers a variety of ways to style elements 
+	  - both frameworks offer a hot reloading feature 
+	  -Next requires all styling to be done in a single file while Remix allows for styles to be split up into multiple files 
+	  -Next is faster and easier to learn but may be less flexible 
+	  - Remix is more flexible but may take longer to learn
 -
