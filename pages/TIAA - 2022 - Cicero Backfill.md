@@ -9,8 +9,9 @@ tech-stack:: [[Angular]]
 	- [TIAA - Box - Design Systems at TIAA](https://app.box.com/folder/158069737470?s=zbc9mcf9mkzb1f9rvjlrpvhtguyxr3qp)
 	- [TIAA 2022 Notion](https://www.notion.so/rangle/TIAA-2022-2fd1c142c2574b12b08b2a3809f8eb46)
 	- [TIAA - 2022 - Kanban](https://www.notion.so/rangle/b14c2279d7d04ca38b140d2844951a58?v=b22879e8400d40ac92fea5c8e4603751)
-- {{todo now}}
+- {{query task}}
   query-table:: false
+-
 -
 -
 - [[changelog]]
