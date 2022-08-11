@@ -11,6 +11,7 @@ tech-stack:: [[Angular]]
 	- [TIAA - 2022 - Kanban](https://www.notion.so/rangle/b14c2279d7d04ca38b140d2844951a58?v=b22879e8400d40ac92fea5c8e4603751)
 - {{query (and (task todo doing) [[TIAA - 2022 - Cicero Backfill]] )}}
   query-table:: true
+  query-properties:: [:block]
 -
 -
 -
