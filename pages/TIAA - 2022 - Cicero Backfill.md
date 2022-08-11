@@ -3,6 +3,7 @@ client-project:: [[TIAA - 2022]]
 start-date:: 2022-08-15
 end-date:: 2022-09-20
 tech-stack:: [[Angular]]
+active
 
 - # Quick Links
 	- [TIAA - Internal G-Drive](https://drive.google.com/drive/folders/0AEq2yor6kBcWUk9PVA)
