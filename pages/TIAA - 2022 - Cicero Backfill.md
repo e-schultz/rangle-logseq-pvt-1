@@ -19,8 +19,11 @@ status:: Active
 -
 - # TIAA - 2022 - Backfill Onboarding Tasks
 	- TODO Complete TIAA Onboarding
-		- TODO Complete TIAA Background Check
+		- DOING Complete TIAA Background Check
 		  id:: 62f53a6f-2f7e-460e-b90a-89932355d458
+		  :LOGBOOK:
+		  CLOCK: [2022-08-11 Thu 14:15:08]
+		  :END:
 			- Naim slacked me about it [[2022-08-11]] and said I should have an email form Certn - [slack](https://rangle.slack.com/archives/D0388E20T6Y/p1660237776631719)
 		- TODO Intro to TIAA for Evan and Cicero >[2022-08-15 15:00 - 16:00](#agenda://?start=1660590000000&end=1660593600000&allDay=false)
 		- DOING [Google Drive - TIAA Onboarding Forms](https://drive.google.com/drive/folders/1FYFf2mpFxe-OaWbzVA1ocHukX93eiXtZ)
