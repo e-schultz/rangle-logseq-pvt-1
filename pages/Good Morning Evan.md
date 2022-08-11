@@ -1,12 +1,1 @@
-- generate bullet-point outline for blog post comparing the javascript frameworks Next and Remix
-	- -both Next and Remix are front-end Javascript frameworks 
-	  -both help developers create user interfaces and websites 
-	  - differ in how they approach stylesheets 
-	  -Next uses JavaScript and JSX to generate CSS stylesheets while Remix generates CSS stylesheets from pre-processor files 
-	  - Next is opinionated about how stylesheets should be organized and offers a limited number of ways to style elements 
-	  - Remix is more flexible and offers a variety of ways to style elements 
-	  - both frameworks offer a hot reloading feature 
-	  -Next requires all styling to be done in a single file while Remix allows for styles to be split up into multiple files 
-	  -Next is faster and easier to learn but may be less flexible 
-	  - Remix is more flexible but may take longer to learn
--
+- generate bullet-point outline for blog post comparing the javascript frameworks Next and Remix and the pros and cons for using them for headless e-commerce and composable digital expierence platforms
