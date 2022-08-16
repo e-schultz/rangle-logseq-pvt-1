@@ -15,6 +15,7 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 						- [Fuse Angular](https://themeforest.net/item/fuse-angularjs-material-design-admin-template/12931855) - [preview](https://preview.themeforest.net/item/fuse-angularjs-material-design-admin-template/full_screen_preview/12931855)
 						- [Inventual - Angular Inventory Admin Template](https://themeforest.net/item/inventual-angular-inventory-admin-template/35814136) - [preview](https://preview.themeforest.net/item/inventual-angular-inventory-admin-template/full_screen_preview/35814136)
 					- [[Example Repos]]
+					  id:: 62fc0128-7cbf-4ae3-894d-ecf61d061336
 						- https://github.com/jneterer/angular-material-tailwindcss - looks out of date
 						- https://github.com/jbtalhakhan/angular-material-tailwind - looks out of date
 						- https://github.com/svenson95/ng-neer-app - more recent
