@@ -15,13 +15,9 @@ status:: Active
 - {{query (and (task todo doing) [[TIAA/TIAA - 2022]] )}}
   query-table:: true
   query-properties:: [:block]
--
--
--
--
 - # TIAA - 2022 - Backfill Onboarding Tasks
 	- TODO Complete TIAA Onboarding
-		- TODO Complete TIAA Background Check
+		- DONE Complete TIAA Background Check
 		  id:: 62f53a6f-2f7e-460e-b90a-89932355d458
 		  :LOGBOOK:
 		  CLOCK: [2022-08-11 Thu 14:15:08]--[2022-08-11 Thu 14:20:48] =>  00:05:40
