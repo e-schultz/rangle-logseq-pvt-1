@@ -14,6 +14,8 @@ status:: Active
 - {{query (and (task todo doing) [[TIAA/TIAA - 2022]] )}}
   query-table:: true
   query-properties:: [:block]
+  query-sort-by:: block
+  query-sort-desc:: true
 - # TIAA - 2022 - Backfill Onboarding Tasks
 	- TODO Complete TIAA Onboarding
 		- DONE Complete TIAA Background Check
