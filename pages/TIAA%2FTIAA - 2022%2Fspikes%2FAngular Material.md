@@ -27,8 +27,6 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 						- https://github.com/Tadeo-2404/videogame-app - recent app
 						  
 						  live-preview: https://videogame-app-seven.vercel.app/
-							-
-				-
 			- Can the shared theme support Dark mode?
 			- Create Tailwind utility/custom classes that could be used across the Component Library. Bonus: can these utility classes be exported and used outside the Component Library?
 			- Tailwind and Angular Elements (we need [@Akeem Williams](https://rangle.slack.com/team/U02G57QUH3K) help on this)
@@ -52,4 +50,3 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 				- ds naming convention would be ethos with version number as they update over the years. ex. ethos1 for version 1, ethos2 for version 2
 				- Naming convention would only use the major version as they make updates to a version, such as 1.0.1, 1.0.2 would still use ethos1.
 				- For now they suggested we use tiaa-ethos
--
