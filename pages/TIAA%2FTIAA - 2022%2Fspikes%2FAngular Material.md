@@ -7,6 +7,7 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 		- Eduardo & Nilesh and I will be working on these questions:
 			- How easy is to create a shared theme for Tailwind and Angular Material?
 				- [[Angular Material + TailwindCSS]]
+				  id:: 62fc0104-5084-41a7-99d8-2a9bf59228b6
 					- [[Blog Posts]]:
 						- [dev.to - Tailwind CSS with Angular V12- What You Need to Know](https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b)
 						- [bitovi - Get Started with Tailwind CSS for Angular v12](https://www.bitovi.com/blog/tailwind-css-with-angular-v12-what-you-need-to-know)
