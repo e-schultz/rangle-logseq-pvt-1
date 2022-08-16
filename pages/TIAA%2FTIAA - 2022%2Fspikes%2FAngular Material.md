@@ -17,8 +17,40 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 					- [[Example Repos]]
 						- https://github.com/jneterer/angular-material-tailwindcss - looks out of date
 						- https://github.com/jbtalhakhan/angular-material-tailwind - looks out of date
-						- Angular documentation extension - build with Angular Material & Tailw
-						  https://github.com/svenson95/ng-neer-app - more recent,
+						- https://github.com/svenson95/ng-neer-app - more recent
+						  
+						  Angular documentation extension - build with Angular Material & Tailwind
+						- https://github.com/CesarGarcia-dot/tailwind-angular-material - updated recently
+						- https://github.com/khot-aditya/Angular-Tailwindcss - updated 2 months ago - "
+						- ## About
+						  
+						  Short step guide to use tailwind css and material design with angular framework
+						- ### Topics
+						  
+						  [css](https://github.com/topics/css) [html](https://github.com/topics/html) [jquery](https://github.com/topics/jquery) [angular](https://github.com/topics/angular) [framework](https://github.com/topics/framework) [typescript](https://github.com/topics/typescript) [material](https://github.com/topics/material) [material-design](https://github.com/topics/material-design) [material-ui](https://github.com/topics/material-ui) [angular-material](https://github.com/topics/angular-material) [angular-cli](https://github.com/topics/angular-cli) [tailwindcss](https://github.com/topics/tailwindcss) [tailwind-css](https://github.com/topics/tailwind-css) [tailwindui](https://github.com/topics/tailwindui) [angular13](https://github.com/topics/angular13)
+						- ### Resources
+						  
+						  [ Readme](https://github.com/khot-aditya/Angular-Tailwindcss#readme)
+						- ### Stars
+						  
+						  [ **0** stars](https://github.com/khot-aditya/Angular-Tailwindcss/stargazers)
+						- ### Watchers
+						  
+						  [ **1** watching](https://github.com/khot-aditya/Angular-Tailwindcss/watchers)
+						- ### Forks
+						  
+						  [ **0** forks](https://github.com/khot-aditya/Angular-Tailwindcss/network/members)
+						- ## [Releases](https://github.com/khot-aditya/Angular-Tailwindcss/releases)
+						  
+						  No releases published
+						- ## [Packages](https://github.com/users/khot-aditya/packages?repo_name=Angular-Tailwindcss)
+						  
+						  No packages published
+						- ## Languages
+						- [**TypeScript**73.8%](https://github.com/khot-aditya/Angular-Tailwindcss/search?l=typescript)
+						- [**JavaScript**20.5%](https://github.com/khot-aditya/Angular-Tailwindcss/search?l=javascript)
+						- [**HTML**4.9%](https://github.com/khot-aditya/Angular-Tailwindcss/search?l=html)
+						- [**CSS**0.8%](https://github.com/khot-aditya/Angular-Tailwindcss/search?l=css)
 				-
 			- Can the shared theme support Dark mode?
 			- Create Tailwind utility/custom classes that could be used across the Component Library. Bonus: can these utility classes be exported and used outside the Component Library?
