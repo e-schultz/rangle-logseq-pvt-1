@@ -6,11 +6,12 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 	- Shared by Eduardo in [Slack](https://rangle.slack.com/archives/C03HUUCBW14/p1660230792437029)
 		- Eduardo & Nilesh and I will be working on these questions:
 			- How easy is to create a shared theme for Tailwind and Angular Material?
+				- [dev.to - ](https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b)
 			- Can the shared theme support Dark mode?
-		- Create Tailwind utility/custom classes that could be used across the Component Library. Bonus: can these utility classes be exported and used outside the Component Library?
-		- Tailwind and Angular Elements (we need [@Akeem Williams](https://rangle.slack.com/team/U02G57QUH3K) help on this)
-		  
-		  After having a opinion/demo for those questions, the idea is to try to answer the same ones using Materialize CSS and compare how easy/difficult it isDid we miss something important?
+			- Create Tailwind utility/custom classes that could be used across the Component Library. Bonus: can these utility classes be exported and used outside the Component Library?
+			- Tailwind and Angular Elements (we need [@Akeem Williams](https://rangle.slack.com/team/U02G57QUH3K) help on this)
+			  
+			  After having a opinion/demo for those questions, the idea is to try to answer the same ones using Materialize CSS and compare how easy/difficult it isDid we miss something important?
 - # Meeting Notes
 	- ## 2022-08-07 - TIAA - Angualr Spike Standup Notes
 	  notion:: https://www.notion.so/rangle/7-8-2022-Spike-stand-up-notes-7aae5bf52c664e4896298e2f3bd7b2d4
