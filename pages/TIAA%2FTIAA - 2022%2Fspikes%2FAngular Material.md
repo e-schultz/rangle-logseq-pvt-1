@@ -20,7 +20,7 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 			  After having a opinion/demo for those questions, the idea is to try to answer the same ones using Materialize CSS and compare how easy/difficult it isDid we miss something important?
 - # Notes and Documentation
 	- ## Documents
-		- [Angular Spike Results]
+		- [TIAA - Angular Spike Results](https://docs.google.com/presentation/d/1pSCYKZSCSxEK_DJs5u3X6pNiZmzY849RhtVgWlXVNu4/edit#slide=id.p2)
 	- ## Meeting Notes
 		- ### 2022-08-07 - TIAA - Angualr Spike Standup Notes
 		  notion:: https://www.notion.so/rangle/7-8-2022-Spike-stand-up-notes-7aae5bf52c664e4896298e2f3bd7b2d4
