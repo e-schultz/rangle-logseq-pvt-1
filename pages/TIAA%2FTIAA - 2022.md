@@ -19,7 +19,7 @@ status:: Active
 	-
 	-
 - # Current Spikes
-- [[TIAA/TIAA - 2022/spike/Angular Material]]
+- [[TIAA/TIAA - 2022/spikes/Angular Material]]
 - {{query (and (task todo doing) [[TIAA/TIAA - 2022]] )}}
   query-table:: true
   query-properties:: [:block]
