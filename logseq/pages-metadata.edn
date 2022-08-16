@@ -120,10 +120,28 @@
   :block/updated-at 1656734989523}
  {:block/name "2022-08-09",
   :block/created-at 1660065994121,
-  :block/updated-at 1660147549837}
+  :block/updated-at 1660239383107}
  {:block/name "2022-08-10",
   :block/created-at 1660067178603,
-  :block/updated-at 1660147670558}
+  :block/updated-at 1660239752362}
+ {:block/name "2022-08-11",
+  :block/created-at 1660190800039,
+  :block/updated-at 1660241704781}
+ {:block/name "2022-08-12",
+  :block/created-at 1660277238597,
+  :block/updated-at 1660277238597}
+ {:block/name "2022-08-13",
+  :block/created-at 1660363483010,
+  :block/updated-at 1660363483010}
+ {:block/name "2022-08-14",
+  :block/created-at 1660450066027,
+  :block/updated-at 1660450066027}
+ {:block/name "2022-08-15",
+  :block/created-at 1660536895570,
+  :block/updated-at 1660536895570}
+ {:block/name "2022-08-16",
+  :block/created-at 1660625848933,
+  :block/updated-at 1660681859160}
  {:block/name "2022-08-31",
   :block/created-at 1660145506057,
   :block/updated-at 1660145506057}
@@ -145,9 +163,21 @@
  {:block/name "628ec383-129d-4dfe-bfa3-132015fe2ae7",
   :block/created-at 1653523350228,
   :block/updated-at 1653523350228}
+ {:block/name "62f53a6f-2f7e-460e-b90a-89932355d458",
+  :block/created-at 1660239833335,
+  :block/updated-at 1660239833335}
+ {:block/name "62fbd805-4ade-4722-85c2-e71d07e0c376",
+  :block/created-at 1660674762847,
+  :block/updated-at 1660674762847}
  {:block/name "782bd219-db7f-4bd8-a714-507229969636",
   :block/created-at 1653599050536,
   :block/updated-at 1653599050536}
+ {:block/name "]docs",
+  :block/created-at 1660150136313,
+  :block/updated-at 1660150136313}
+ {:block/name "]docs/technology 3.0 bootcamp",
+  :block/created-at 1660150136311,
+  :block/updated-at 1660150136311}
  {:block/name "a",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
@@ -164,8 +194,8 @@
   :block/created-at 1660146862245,
   :block/updated-at 1660146862245}
  {:block/name "angular",
-  :block/created-at 1660066876917,
-  :block/updated-at 1660066876917}
+  :block/created-at 1660674260385,
+  :block/updated-at 1660674260385}
  {:block/name "angular io learning journey",
   :block/created-at 1654693454167,
   :block/updated-at 1654697633862}
@@ -193,9 +223,18 @@
  {:block/name "ceridian",
   :block/created-at 1653491916564,
   :block/updated-at 1653491925923}
+ {:block/name "changelog",
+  :block/created-at 1660238831027,
+  :block/updated-at 1660238844080}
+ {:block/name "cicereo",
+  :block/created-at 1660680173888,
+  :block/updated-at 1660680173888}
  {:block/name "client",
   :block/created-at 1660066855956,
   :block/updated-at 1660066855956}
+ {:block/name "client-project",
+  :block/created-at 1660237794529,
+  :block/updated-at 1660237794529}
  {:block/name "contents",
   :block/created-at 1653417506476,
   :block/updated-at 1653417506476}
@@ -220,6 +259,18 @@
  {:block/name "digital operating model/radar",
   :block/created-at 1660147011899,
   :block/updated-at 1660147011899}
+ {:block/name "docs",
+  :block/created-at 1660150143470,
+  :block/updated-at 1660150143470}
+ {:block/name "docs/slides",
+  :block/created-at 1660150169351,
+  :block/updated-at 1660150169351}
+ {:block/name "docs/slides/technology 3.0 bootcamp",
+  :block/created-at 1660150179453,
+  :block/updated-at 1660150489267}
+ {:block/name "docs/technology 3.0 bootcamp",
+  :block/created-at 1660150419460,
+  :block/updated-at 1660150419460}
  {:block/name "doing",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
@@ -227,14 +278,20 @@
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
  {:block/name "end-date",
-  :block/created-at 1660066834290,
-  :block/updated-at 1660066834290}
+  :block/created-at 1660674260387,
+  :block/updated-at 1660674260387}
  {:block/name "end-time",
   :block/created-at 1660146811938,
   :block/updated-at 1660146811938}
  {:block/name "evan",
   :block/created-at 1660146862241,
   :block/updated-at 1660146862241}
+ {:block/name "evan -- willian - 1 on 1",
+  :block/created-at 1660235551841,
+  :block/updated-at 1660235551841}
+ {:block/name "evan s",
+  :block/created-at 1660680173889,
+  :block/updated-at 1660680173889}
  {:block/name "fa - show and tell",
   :block/created-at 1660147344512,
   :block/updated-at 1660147344512}
@@ -254,10 +311,13 @@
   :block/updated-at 1654693611083}
  {:block/name "good morning evan",
   :block/created-at 1653490370893,
-  :block/updated-at 1653490370893}
+  :block/updated-at 1660241643497}
  {:block/name "in-progress",
   :block/created-at 1653417506476,
   :block/updated-at 1653417506476}
+ {:block/name "jason s",
+  :block/created-at 1660680173888,
+  :block/updated-at 1660680173888}
  {:block/name "john m",
   :block/created-at 1660146862244,
   :block/updated-at 1660146862244}
@@ -267,6 +327,12 @@
  {:block/name "later",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "meeting",
+  :block/created-at 1660239637698,
+  :block/updated-at 1660239637698}
+ {:block/name "meeting-link",
+  :block/created-at 1660672492907,
+  :block/updated-at 1660672492907}
  {:block/name "michael m",
   :block/created-at 1660146862244,
   :block/updated-at 1660146862244}
@@ -335,12 +401,18 @@
  {:block/name "morning bootup",
   :block/created-at 1654693109856,
   :block/updated-at 1654693109856}
+ {:block/name "naim",
+  :block/created-at 1660680173887,
+  :block/updated-at 1660680173887}
  {:block/name "next vs nest vs remix",
   :block/created-at 1660145216045,
   :block/updated-at 1660145216045}
  {:block/name "next vs remix vs gatsby",
   :block/created-at 1660145241324,
   :block/updated-at 1660145241324}
+ {:block/name "notion",
+  :block/created-at 1660674975168,
+  :block/updated-at 1660674975168}
  {:block/name "now",
   :block/created-at 1653417506476,
   :block/updated-at 1653417506476}
@@ -350,6 +422,9 @@
  {:block/name "pride",
   :block/created-at 1653582297019,
   :block/updated-at 1653582297019}
+ {:block/name "project",
+  :block/created-at 1660672707243,
+  :block/updated-at 1660672707243}
  {:block/name "queer",
   :block/created-at 1653582297019,
   :block/updated-at 1653582297019}
@@ -362,12 +437,30 @@
  {:block/name "rangle partnership model",
   :block/created-at 1655212195708,
   :block/updated-at 1655212195708}
+ {:block/name "robyn",
+  :block/created-at 1660680537196,
+  :block/updated-at 1660680537196}
+ {:block/name "shared-by",
+  :block/created-at 1660150382844,
+  :block/updated-at 1660150382844}
+ {:block/name "shared-on",
+  :block/created-at 1660150382844,
+  :block/updated-at 1660150382844}
+ {:block/name "shared-url",
+  :block/created-at 1660150473173,
+  :block/updated-at 1660150473173}
+ {:block/name "shared-via",
+  :block/created-at 1660150410170,
+  :block/updated-at 1660150410170}
  {:block/name "start-date",
-  :block/created-at 1660066828671,
-  :block/updated-at 1660066828671}
+  :block/created-at 1660674260386,
+  :block/updated-at 1660674260386}
  {:block/name "start-time",
   :block/created-at 1660146811937,
   :block/updated-at 1660146811937}
+ {:block/name "status",
+  :block/created-at 1660674260390,
+  :block/updated-at 1660674260390}
  {:block/name "tech regroup",
   :block/created-at 1653420797296,
   :block/updated-at 1660143972630}
@@ -375,8 +468,11 @@
   :block/created-at 1654001093331,
   :block/updated-at 1654001093331}
  {:block/name "tech-stack",
-  :block/created-at 1660066876920,
-  :block/updated-at 1660066876920}
+  :block/created-at 1660674260388,
+  :block/updated-at 1660674260388}
+ {:block/name "technology-architecture",
+  :block/created-at 1660150412006,
+  :block/updated-at 1660150412006}
  {:block/name "test page",
   :block/created-at 1660147786966,
   :block/updated-at 1660147887880}
@@ -386,16 +482,31 @@
   :block/updated-at 1653582348840}
  {:block/name "tiaa",
   :block/created-at 1660066855955,
-  :block/updated-at 1660066855955}
- {:block/name "tiaa - cicero backfill",
-  :block/created-at 1660066798876,
-  :block/updated-at 1660066876924}
+  :block/updated-at 1660674112923}
+ {:block/name "tiaa/tiaa - 2022",
+  :block/created-at 1660237794527,
+  :block/updated-at 1660675349155}
+ {:block/name "tiaa/tiaa - 2022/spikes",
+  :block/created-at 1660674932714,
+  :block/updated-at 1660674932714}
+ {:block/name "tiaa/tiaa - 2022/spikes/angular material",
+  :block/created-at 1660674932709,
+  :block/updated-at 1660676079335}
  {:block/name "todo",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
+ {:block/name "transcript",
+  :block/created-at 1660672707244,
+  :block/updated-at 1660672707244}
  {:block/name "twitter as zettelkasten",
   :block/created-at 1653582102567,
   :block/updated-at 1653582102567}
+ {:block/name "type",
+  :block/created-at 1660237681691,
+  :block/updated-at 1660237681691}
+ {:block/name "url",
+  :block/created-at 1660150328898,
+  :block/updated-at 1660150328898}
  {:block/name "wait",
   :block/created-at 1653417506475,
   :block/updated-at 1653417506475}
