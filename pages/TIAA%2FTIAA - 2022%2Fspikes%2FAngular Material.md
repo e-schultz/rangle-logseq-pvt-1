@@ -22,6 +22,9 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 						  Angular documentation extension - build with Angular Material & Tailwind
 						- https://github.com/CesarGarcia-dot/tailwind-angular-material - updated recently
 						- https://github.com/khot-aditya/Angular-Tailwindcss - updated 2 months ago - "Short step guide to use tailwind css and material design with angular framework"
+						- https://github.com/Tadeo-2404/videogame-app - recent app
+							- live-preview:: https://videogame-app-seven.vercel.app/
+							-
 				-
 			- Can the shared theme support Dark mode?
 			- Create Tailwind utility/custom classes that could be used across the Component Library. Bonus: can these utility classes be exported and used outside the Component Library?
