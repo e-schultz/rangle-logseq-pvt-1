@@ -23,7 +23,8 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 						- https://github.com/CesarGarcia-dot/tailwind-angular-material - updated recently
 						- https://github.com/khot-aditya/Angular-Tailwindcss - updated 2 months ago - "Short step guide to use tailwind css and material design with angular framework"
 						- https://github.com/Tadeo-2404/videogame-app - recent app
-							- live-preview:: https://videogame-app-seven.vercel.app/
+						  
+						  live-preview: https://videogame-app-seven.vercel.app/
 							-
 				-
 			- Can the shared theme support Dark mode?
