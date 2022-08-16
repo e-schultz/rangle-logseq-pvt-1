@@ -10,7 +10,7 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 					- [dev.to - Tailwind CSS with Angular V12- What You Need to Know](https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b)
 					- [bitovi - Get Started with Tailwind CSS for Angular v12](https://www.bitovi.com/blog/tailwind-css-with-angular-v12-what-you-need-to-know)
 				- Themes: Currently paid - might be worth getting one to see how they approach it
-					-
+					- [Fuse Angular](https://themeforest.net/item/fuse-angularjs-material-design-admin-template/12931855) - [preview](https://preview.themeforest.net/item/fuse-angularjs-material-design-admin-template/full_screen_preview/12931855)
 			- Can the shared theme support Dark mode?
 			- Create Tailwind utility/custom classes that could be used across the Component Library. Bonus: can these utility classes be exported and used outside the Component Library?
 			- Tailwind and Angular Elements (we need [@Akeem Williams](https://rangle.slack.com/team/U02G57QUH3K) help on this)
