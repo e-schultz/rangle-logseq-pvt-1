@@ -3,7 +3,6 @@ notion:: [TIAA - Angular Spike](https://www.notion.so/rangle/Angular-Material-Sp
 
 -
 - # Current Questions
-  collapsed:: true
 	- Shared by Eduardo in [Slack](https://rangle.slack.com/archives/C03HUUCBW14/p1660230792437029)
 		- Eduardo & Nilesh and I will be working on these questions:
 			- How easy is to create a shared theme for Tailwind and Angular Material?
